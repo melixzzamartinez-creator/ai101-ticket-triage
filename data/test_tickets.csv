@@ -1,0 +1,61 @@
+id,channel,text,category
+T002,web,Can I pay for the Team plan by bank transfer instead of a credit card?,billing
+T003,web,The app uses 100% of my CPU when it's open in the background.,technical
+T010,mobile,attachments wont download,technical
+T021,web,Drag and drop to move notes between notebooks doesn't work anymore.,technical
+T025,mobile,keeps closing on iphone,technical
+T029,web,I'm a journalist writing about productivity apps. Who can I talk to?,other
+T031,mobile,idea: voice memos auto transcribed,other
+T034,web,I need to reset two-factor authentication for a user on our team.,account
+T040,mobile,switched plans and got hit twice,billing
+T046,web,I keep getting logged out every few minutes while I'm editing.,technical
+T047,mobile,can u add a calendar view,other
+T051,web,The app crashes every time I open a notebook with more than 200 notes.,technical
+T054,web,I closed my account but I still get emails from you.,account
+T055,web,I was charged twice for my Pro subscription this month. Can you refund the duplicate charge?,billing
+T057,web,How do I sign out of all devices at once?,account
+T065,mobile,"new card, where do i put it",billing
+T092,web,PDF attachments show a gray box instead of a preview.,technical
+T099,web,My saved searches were deleted after the update.,technical
+T104,mobile,"cant find anything, search broken",technical
+T112,web,My account shows someone else's name.,account
+T116,web,The charge on my statement says NTS*SUBSCRIPTION. Is that you?,billing
+T122,web,Do you have an API so I can connect my notes to other tools?,other
+T124,mobile,want my work email instead,account
+T126,web,My recovery email is wrong and I can't change it without the code.,account
+T140,mobile,wont open at all,technical
+T145,web,The app shows the wrong note count for each notebook.,technical
+T152,mobile,my friend sees old text,technical
+T153,web,Can I make my profile private?,account
+T156,web,Uploading a photo from my camera roll rotates it sideways.,technical
+T161,mobile,super slow since update,technical
+T162,mobile,can i change my name on here,account
+T163,web,Highlight colors disappear when I view the note on another device.,technical
+T166,web,Do you charge extra for more attachment storage?,billing
+T168,web,I need to change the billing address on our invoices.,billing
+T170,mobile,sign out everywhere how,account
+T185,mobile,google button doesnt work,account
+T190,web,Can you tell me when my next payment will be taken?,billing
+T201,web,Audio recordings in my notes won't play back.,technical
+T208,web,"The web clipper saves only the page title, not the article.",technical
+T210,mobile,remove my phone #,account
+T212,web,Is there a keyboard shortcut to create a new note?,other
+T214,web,Could you add a dark mode for the home screen widget?,other
+T216,web,I'm being billed for the Team plan but I'm the only member. Can we move to Pro?,billing
+T219,web,Why did the price of my Pro plan go up from $8 to $10 without any notice?,billing
+T224,mobile,can i get $ back for months i didnt use,billing
+T225,mobile,hiring?,other
+T232,web,How do I set a new password if I originally signed up with Google?,account
+T236,web,Can you split our Team invoice across two cost centers?,billing
+T240,mobile,whats this $1 thing on my statement,billing
+T243,web,I'd like to suggest a feature: nested tags.,other
+T244,web,I'm locked out because my authenticator app was reset.,account
+T253,web,Tags I add in the desktop app do not show up on the web.,technical
+T256,mobile,"paid for pro, still shows free",billing
+T257,web,How do I change my username?,account
+T258,web,My card was billed $96 for an annual plan but I only signed up for the monthly Pro plan.,billing
+T266,web,I have two accounts with different emails. Can you merge them into one?,account
+T277,mobile,cancel pro asap,billing
+T284,web,The checkout page charged me in euros instead of US dollars.,billing
+T285,mobile,2 of every note now,technical
+T288,web,Pinned notes don't stay pinned after I close the app.,technical

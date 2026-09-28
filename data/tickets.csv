@@ -1,0 +1,241 @@
+id,channel,text,category
+T001,web,How do I see which devices are signed in to my account?,account
+T004,web,Will there be a Linux desktop app?,other
+T005,web,The student discount code STUDY20 says it is invalid at checkout.,billing
+T006,mobile,why did u take $10 not $8,billing
+T007,mobile,pymt failed but $ left my acct,billing
+T008,mobile,can u add folders inside folders,other
+T009,mobile,code from ur email didnt work,billing
+T011,web,I want to downgrade from Team to Pro. Will I get a prorated credit for the rest of the month?,billing
+T012,web,"When I export a note to PDF, the images are missing from the file.",technical
+T013,mobile,love this app!!,other
+T014,mobile,how do i archive a notebook,other
+T015,web,Please add support for LaTeX math in notes.,other
+T016,mobile,any plans for a watch app,other
+T017,mobile,checkboxes keep unchecking,technical
+T018,mobile,still pending,account
+T019,mobile,"got it thru app store, want $ back",billing
+T020,web,I'm not receiving the one-time sign-in code by text message.,account
+T022,mobile,need proof of purchase for work,billing
+T023,mobile,"my bank blocked u, try again pls",billing
+T024,web,Images in my notes show as broken links.,technical
+T026,mobile,auto renew off?? still took it,billing
+T027,mobile,text overlapping on small screen,technical
+T028,web,My refund was approved last week but it hasn't shown up on my statement.,billing
+T030,web,Our finance team needs all invoices from January to June as PDFs.,billing
+T032,web,Sharing a note by link gives my colleague a page not found error.,technical
+T033,mobile,delete everything about me pls,account
+T035,mobile,how do i stop paying,billing
+T036,web,I want to change the name that appears when I share notes.,account
+T037,web,Numbered lists restart at 1 after every image.,technical
+T038,web,"Can I use the app for my small business, or is it only for personal use?",other
+T039,mobile,"lost my edits, went back to old version",technical
+T041,mobile,code not coming,account
+T042,web,My free trial ended and I was charged even though I thought I had turned off auto-renew.,billing
+T043,web,I need to update the credit card on file because my old one expired.,billing
+T044,web,Voice typing stops after a few seconds in the web editor.,technical
+T045,web,The invoice lists the wrong company name. We changed our name in March.,billing
+T048,web,I was charged sales tax but I live in a state that doesn't charge tax on software.,billing
+T049,web,The verification email for my new account never came.,account
+T050,web,Checkboxes in my to-do lists uncheck themselves after syncing.,technical
+T052,web,We'd like to partner with you for our university's student program.,other
+T053,web,Could you add more colors for highlighting?,other
+T056,mobile,wish i could lock single notes,other
+T058,web,Version history is empty even though I've edited this note many times.,technical
+T059,web,I need to update my date of birth on my profile.,account
+T060,web,My notes are not syncing between my laptop and my phone. Changes on one never show up on the other.,technical
+T061,mobile,reminders dont go off anymore,technical
+T062,web,I lost my phone and can't get the two-factor code to sign in.,account
+T063,mobile,error 500 when sharing,technical
+T064,mobile,update cc info pls,billing
+T066,web,My security questions don't match what I remember.,account
+T067,mobile,hacked?? notes i didnt write,account
+T068,web,My payment keeps getting declined even though my card works everywhere else.,billing
+T069,web,I'm a teacher. Is there an education price for classroom use?,billing
+T070,web,The trash won't empty. The button spins forever.,technical
+T071,mobile,keeps crashing when i open a notebook,technical
+T072,web,I'd like to request a calendar integration.,other
+T073,web,I can't sign in with Google anymore. It says my account doesn't exist.,account
+T074,web,Can you add a Kanban board view?,other
+T075,web,Our purchase order number needs to appear on every invoice.,billing
+T076,web,I was charged for the Team plan trial even though the page said no card was needed.,billing
+T077,web,How do I create a template for my weekly meeting notes?,other
+T078,mobile,update stuck at 99%,technical
+T079,web,I think my account was hacked. There are notes I didn't write.,account
+T080,web,How do I change the owner of our team account?,account
+T081,mobile,how to link notes together,other
+T082,mobile,freezes on android,technical
+T083,mobile,"didnt mean to buy the yearly one, can i get it back",billing
+T084,web,My team admin removed me. Can I get access to my notes back?,account
+T085,mobile,widget stuck,technical
+T086,web,"There are two subscriptions on my card, one for each of my email addresses. Please cancel the older one.",billing
+T087,mobile,took my money twice??,billing
+T088,mobile,how much is team,billing
+T089,mobile,phone and laptop dont match,technical
+T090,mobile,voice notes wont play,technical
+T091,web,"Reminders fire twice, once on my phone and once on my computer, an hour apart.",technical
+T093,web,Code blocks lose their indentation when I save.,technical
+T094,mobile,great update thx,other
+T095,web,I signed up with Apple and now I want to sign in with my email and password instead.,account
+T096,mobile,locked out,account
+T097,mobile,"trial ended and it just took $, didnt want it",billing
+T098,web,Is there a discount if we pay for two years upfront?,billing
+T100,web,We want to consolidate three separate Pro subscriptions into one Team invoice.,billing
+T101,mobile,"still not fixed, same thing as yesterday",technical
+T102,web,Where are your servers located? Our IT department is asking.,other
+T103,web,The desktop app says it is up to date but it's two versions behind the web.,technical
+T105,web,The web editor freezes for several seconds whenever I paste a table.,technical
+T106,mobile,"new email, how do i switch",account
+T107,mobile,suspended why,account
+T108,mobile,renewed w/o asking me,billing
+T109,web,"The formatting toolbar is missing in Firefox, but it works in Chrome.",technical
+T110,web,I'd like a refund for the annual plan. I bought it yesterday by mistake.,billing
+T111,web,Why was I charged a currency conversion fee?,billing
+T113,web,Special characters like é and ñ turn into question marks after I export.,technical
+T114,web,"Search is very slow when I have more than 5,000 notes.",technical
+T115,web,I see a pending charge of $1 on my card from you. What is it for?,billing
+T117,web,I forgot my password and the reset email never arrives.,account
+T118,web,The calendar view shows reminders on the wrong day. I think it's a time zone issue.,technical
+T119,web,Attachments larger than 5 MB fail to upload with no error message.,technical
+T120,web,How do I remove my saved PayPal account and use a card instead?,billing
+T121,mobile,can i pause for a bit,billing
+T123,web,The sidebar overlaps the note text on my small screen.,technical
+T125,web,Can I transfer my account to my work email?,account
+T127,web,How do I switch from the monthly plan to the yearly plan and keep my current billing date?,billing
+T128,mobile,yearly or monthly cheaper?,billing
+T129,web,I can't scroll to the bottom of long notes in Safari.,technical
+T130,mobile,how to turn off 2fa,account
+T131,web,I was double billed after upgrading from Pro to Team in the middle of the month.,billing
+T132,mobile,says wrong pw but i just changed it,account
+T133,mobile,handwriting not saving,technical
+T134,web,Reminders are not sending notifications anymore since the last update.,technical
+T135,mobile,pics upload sideways,technical
+T136,mobile,reset it but still cant get in,account
+T137,web,I got an alert about a sign-in from another country that wasn't me.,account
+T138,web,Links inside notes open in the same tab and I lose my work.,technical
+T139,mobile,cant add photos,technical
+T141,mobile,tags gone on phone,technical
+T142,web,How do I change my password? I can't find the setting.,account
+T143,mobile,otp not coming by text,account
+T144,mobile,want to go back to free,billing
+T146,web,I want to turn off two-factor authentication.,account
+T147,web,I was charged after my account was supposed to be on the free plan.,billing
+T148,web,How much does it cost to add another seat to our Team plan?,billing
+T149,web,I get a sync conflict message on almost every note now.,technical
+T150,web,The yearly plan price on your website is lower than what I was charged.,billing
+T151,mobile,dark mode keeps turning off,technical
+T154,web,How do I get a refund for a gift subscription I bought for someone who already had Pro?,billing
+T155,web,I love the app. It has completely replaced my paper notebook.,other
+T157,web,The web page crashes with an out of memory message when I open my biggest notebook.,technical
+T158,mobile,pls stop charging me,billing
+T159,web,The note editor jumps to the top every time autosave runs.,technical
+T160,web,The export to Word button does nothing when I click it.,technical
+T164,web,Can I get a refund for the unused months after cancelling my annual plan?,billing
+T165,web,I want to change the language of my account emails.,account
+T167,web,Your onboarding tutorial was really helpful. Thank you.,other
+T169,web,I cancelled my subscription on the 3rd but was still charged on the 10th. I'd like a refund.,billing
+T171,web,Notifications for comments in shared notebooks never arrive.,technical
+T172,web,Can I have more than one account on the same device?,account
+T173,web,The sign-up page says my email is already in use but I never created an account.,account
+T174,web,Can I pause my subscription for two months instead of cancelling it?,billing
+T175,web,Can I use a passkey instead of a password?,account
+T176,web,The print option cuts off the bottom of every page.,technical
+T177,web,Can you add a word count to the editor?,other
+T178,web,My notebooks are in a random order and the sort option doesn't save.,technical
+T179,web,The Remember me box doesn't keep me signed in.,account
+T180,web,Copying a note to another notebook creates an empty note.,technical
+T181,web,How do I archive a notebook without deleting it?,other
+T182,web,"After changing my email, I can't sign in with either address.",account
+T183,web,Do you have a status page where I can check for outages?,other
+T184,web,Search returns no results even for words I can see in my notes.,technical
+T186,web,"My employer set up my account. Now that I've left, how do I keep my personal notes?",account
+T187,mobile,kills my battery,technical
+T188,web,We added three people to our Team plan but the invoice shows five seats.,billing
+T189,web,Emoji in note titles make the note impossible to open.,technical
+T191,mobile,how to pin a note,other
+T192,web,How do I add a recovery phone number to my account?,account
+T193,web,I was promised a 30-day money-back guarantee. How do I claim it?,billing
+T194,mobile,how do i make a template,other
+T195,web,"I got an email saying my payment failed, but my bank shows the money was taken.",billing
+T196,mobile,"new phone, lost the auth app",account
+T197,web,The app won't open at all on my Windows laptop after the update. It shows the logo and closes.,technical
+T198,web,My profile picture won't update. It still shows the old one.,account
+T199,web,Someone changed my password and now I can't get into my account.,account
+T200,mobile,card declined but its fine??,billing
+T202,web,Some of my notes disappeared after the app updated last night.,technical
+T203,web,I paid for Pro through the App Store. How do I get a receipt?,billing
+T204,mobile,is there a tablet version,other
+T205,web,What happens to my notes if your company shuts down?,other
+T206,web,"Offline mode doesn't work. When I lose my connection, the app shows a blank screen.",technical
+T207,mobile,conflict msg on every note,technical
+T209,mobile,student price?,billing
+T211,mobile,logs me out randomly,technical
+T213,web,Please send me an invoice for last month's payment. My company needs it for reimbursement.,billing
+T215,mobile,pics broken,technical
+T217,web,How should I use tags and notebooks together? What's the best practice?,other
+T218,mobile,pls add dark mode to widget,other
+T220,web,"Since yesterday every page shows ""Unable to connect to server"" even though my internet works.",technical
+T221,web,My account was suspended and I don't know why.,account
+T222,web,Are you hiring engineers? I'd love to work on this product.,other
+T223,mobile,i stopped it but u still took $$,billing
+T226,mobile,never got the confirm email,account
+T227,web,"When two people edit the same note, one person's changes are overwritten.",technical
+T228,web,The auto-renewal email came after I had already been charged.,billing
+T229,mobile,cant get in,account
+T230,web,Your billing page shows an error when I try to change my payment method.,billing
+T231,web,"Every time I type a hashtag, the cursor jumps to the start of the line.",technical
+T233,mobile,still no $ back,billing
+T234,mobile,pdf missing pics,technical
+T235,mobile,not getting any alerts,technical
+T237,mobile,link expired,account
+T238,web,Please reactivate my account. I deleted it last week by mistake.,account
+T239,web,The dark mode setting resets to light mode every time I refresh the page.,technical
+T241,web,My handwritten notes from the tablet show up as blank pages on the web.,technical
+T242,web,My account is locked after too many sign-in attempts. How long until I can try again?,account
+T245,mobile,keyboard covers the text,technical
+T246,mobile,scrolling glitchy,technical
+T247,web,Duplicate notes keep appearing after every sync.,technical
+T248,web,My bank flagged your charge as suspicious and blocked it. Can you retry the payment?,billing
+T249,web,How do I change the email address on my account?,account
+T250,web,Is the app accessible with a screen reader?,other
+T251,web,The promo code from your newsletter only took 10% off instead of 25%.,billing
+T252,web,Can I remove my phone number from my account?,account
+T254,mobile,bring my account back pls,account
+T255,web,"The spell checker underlines every word in my notes, even correct ones.",technical
+T259,web,Keyboard shortcuts stopped working in the editor.,technical
+T260,web,Please stop charging me. I deleted the app months ago.,billing
+T261,mobile,share button does nothing,technical
+T262,web,Is there a way to set a default notebook for new notes?,other
+T263,web,"My old email address no longer exists, so I can't verify my account.",account
+T264,web,"I upgraded to Pro but I'm still being shown the Free plan limits, and my card was already charged.",billing
+T265,mobile,"i have 2, can u make them 1",account
+T267,web,The receipt I got doesn't show our VAT number. Can you reissue it with the company details?,billing
+T268,web,"I get ""Error 500: something went wrong"" when I try to share a notebook with a coworker.",technical
+T269,web,Please confirm that my cancellation went through. I don't want to be charged again.,billing
+T270,mobile,everything gone after update!!,technical
+T271,web,My account has said pending verification for three days now.,account
+T272,web,My company card was charged for my personal account. Can you move the charge?,billing
+T273,web,How do I link one note to another?,other
+T274,mobile,"forgot pw, nothing in my inbox",account
+T275,web,Please delete my account and all of my data.,account
+T276,web,Tables in notes lose their column widths after syncing.,technical
+T278,web,The password reset link says it has expired as soon as I click it.,account
+T279,web,Do you offer a nonprofit discount for the Team plan?,billing
+T280,web,"The desktop app is extremely slow to start, around 30 seconds.",technical
+T281,web,Is there a way to share a notebook publicly as a web page?,other
+T282,mobile,no wifi = blank screen,technical
+T283,web,Pasting from Word brings in strange fonts I can't remove.,technical
+T286,web,Loading my notes takes over a minute. It used to be instant.,technical
+T287,web,Please cancel my Pro subscription at the end of the current billing period.,billing
+T289,web,Importing notes from a ZIP file fails at 40% every time.,technical
+T290,mobile,"used apple to sign up, want normal login",account
+T291,web,I'd like to unsubscribe from all marketing emails but keep my account.,account
+T292,mobile,wrong name showing,account
+T293,mobile,how do i get invoice on phone,billing
+T294,mobile,why euros,billing
+T295,web,I keep getting incorrect password even though I just reset it.,account
+T296,web,Shared notebooks show old versions of notes to my teammates.,technical
+T297,web,My exported Markdown files have broken image links.,technical
+T298,mobile,someone else got in??,account
+T299,web,The note I was editing reverted to an older version and I lost an hour of work.,technical
+T300,web,How do I download a copy of all my data before I close my account?,account
